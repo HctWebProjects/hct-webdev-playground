@@ -1,0 +1,8 @@
+h1 {
+    font-family: fantasy;
+    font-weight: bold;
+    border: soild 10px;
+    border-radius: 10px;
+    border-color: blueviolet;
+    color: yellowgreen;
+}
