@@ -6,3 +6,12 @@ h1 {
     border-color: blueviolet;
     color: yellowgreen;
 }
+
+.roundedbox {
+    color: blueviolet;
+    background-color: cornsilk;
+    border: solid 10px red;
+    border-radius: 10px;
+    padding: auto;
+    margin: auto;
+}
