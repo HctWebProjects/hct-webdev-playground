@@ -14,4 +14,7 @@ h1 {
     border-radius: 10px;
     padding: auto;
     margin: auto;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: justify;
 }
